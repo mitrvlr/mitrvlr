@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitrvlr%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🌻 Hi there, I'm a Front-end Developer, and Traveler 👋
+### 🌻 Hi there, I'm a Front-end Enginner, and Traveler 👋
 
 - 🎖 팀의 프론트엔드 리드를 담당하고 있습니다.
 - 🎖 문제를 발견하고 해결해나가는 과정을 선호합니다.

@@ -10,6 +10,11 @@
 ---
 
 ### 🍀 Languages and Tools:
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="html"/> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="html"/>
+<img src="https://img.shields.io/badge/-GITHUB-333?style=flat&logo=github&logoColor=white" alt="github"/> 
+<img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat&logo=Vue.js&logoColor=333" alt="vue"/> 
+<img src="https://img.shields.io/badge/-Nuxt-00DC82?style=flat&logo=Nuxt.js&logoColor=333" alt="nuxt"/> 
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333" alt="react"/>
 
 <code><img alt="HTML5" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></code>
 <code><img alt="CSS3" height="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></code>

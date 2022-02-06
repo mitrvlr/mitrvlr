@@ -1,6 +1,6 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitrvlr%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🌻 Hi there, I'm a Front-end Enginner, and Traveler 👋
+### 🌻 Hi there, I'm a Front-end Engineer, and Traveler 👋
 
 - 🎖 팀의 프론트엔드 리드를 담당하고 있습니다.
 - 🎖 코드 작성은 해결 방법 중 하나라고 생각합니다.
@@ -33,7 +33,7 @@
 
 ---
 
-### 🌱 Github 
+### 🌱 Github:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mitrvlr&layout=compact&theme=ayu-mirage) <br>
 ![git status](https://github-readme-stats.vercel.app/api?username=mitrvlr&show_icons=true&hide=contribs,stars&cache_seconds=86400&theme=ayu-mirage)

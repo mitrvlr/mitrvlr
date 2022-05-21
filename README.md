@@ -8,8 +8,6 @@
 - 🎖 개인의 성장과 함께 성장하는 팀 문화를 지향합니다.
 - 🎖 소프트웨어 엔지니어링과 아키텍트 중심의 스터디를 하고 있습니다.
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrvlr&theme=monokai)
-
 ---
 
 ### 🍀 Languages and Tools:

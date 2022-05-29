@@ -36,6 +36,4 @@
 ### 🌱 Github:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrvlr&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mitrvlr&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mitrvlr&theme=monokai&utcOffset=8)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitrvlr&theme=monokai)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitrvlr&theme=monokai)

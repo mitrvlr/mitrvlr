@@ -19,6 +19,7 @@
 <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=333" alt="react"/>
 <img src="https://img.shields.io/badge/-Next.js-000?style=flat&logo=Next.js&logoColor=fff" alt="Next.js"/>
 <img src="https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=fff" alt="Playwrite"/> 
+<img src="https://img.shields.io/badge/-Google%20Cloud%20Platform-4285F4?style=flat&logo=GoogleCloud&logoColor=fff" alt="GCP"/> 
 <br />
 <img src="https://img.shields.io/badge/-Github-333?style=flat&logo=github&logoColor=fff" alt="github"/>
 <img src="https://img.shields.io/badge/-Github Actions-333?style=flat&logo=githubactions&logoColor=fff" alt="githubActions"/>

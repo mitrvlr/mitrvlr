@@ -1,12 +1,12 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmitrvlr%2Fhit-counter&count_bg=%2334AEFF&title_bg=%23555555&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-### 🌻 Hi there, I'm a Front-end Engineer, and Traveler 👋
+### 🌻 Hi there, I'm Software Engineer, and Traveler 👋
 
-- 🎖 팀의 프론트엔드 리드를 맡고 있습니다.
-- 🎖 코드는 문제 해결 방법 중 하나라고 생각하고 문제를 해결하는데 집중합니다.
+- 🎖 프론트엔드 리드를 맡고 있습니다.
+- 🎖 코드는 문제 해결 방법 중 하나라고 생각하고, 원인 분석과 본질에 집중합니다.
 - 🎖 개인의 성장과 함께 성장하는 팀 문화를 지향합니다.
-- 🎖 고민의 시작부터 해결해나가는 과정을 좋아합니다.
-- 🎖 책 읽기와 생각하기를 좋아합니다.
+- 🎖 투명한 커뮤니케이션을 지향하고 타인을 존중합니다.
+- 🎖 책을 읽고 생각하며 숙고합니다.
 
 ---
 

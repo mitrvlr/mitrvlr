@@ -28,10 +28,11 @@
 <img src="https://img.shields.io/badge/-Cypress-17202C?style=flat&logo=cypress&logoColor=fff" alt="Cypress"/> 
 <img src="https://img.shields.io/badge/-express-FFF?style=flat&logo=express&logoColor=333" alt="express"/>
 <img src="https://img.shields.io/badge/-MySql-4479A1?style=flat&logo=mysql&logoColor=fff" alt="mysql"/>
-
+<!--
 ---
 
 ### 🌱 Github:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrvlr&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mitrvlr&theme=monokai)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitrvlr&theme=monokai)
+-->

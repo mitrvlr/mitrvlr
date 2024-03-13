@@ -9,6 +9,16 @@
 - 🎖 투명한 커뮤니케이션을 지향하고 타인을 존중합니다.
 - 🎖 책을 읽고 숙고하길 좋아합니다.
 
+* Preference
+- 🎖 Performance
+- 🎖 Impact
+- 🎖 Productivity
+
+* Non-Preference 
+- 🎖 Uncertainty
+- 🎖 Complexity
+- 🎖 Ambiguity
+
 ---
 
 ### 🍀 Languages and Tools:

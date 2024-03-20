@@ -9,15 +9,20 @@
 - 🎖 투명한 커뮤니케이션을 지향하고 타인을 존중합니다.
 - 🎖 책을 읽고 숙고하길 좋아합니다.
 
-*Preference
-- 🎖 Performance
-- 🎖 Impact
-- 🎖 Countribute
+Growth Team Agenda
+- 🎖 Diversity: 다양성
+- 🎖 Equity: 형평성
+- 🎖 Inclusion: 포용성
 
-*Non-Preference 
-- 🎖 Uncertainty
-- 🎖 Complexity
-- 🎖 Ambiguity
+Objection
+- 🎖 Performance: 수행
+- 🎖 Impact: 영향
+- 🎖 Contribution: 기여
+
+Pitfalls to Avoid
+- 🎖 Uncertainty: 불확실성
+- 🎖 Complexity: 복잡성
+- 🎖 Ambiguity: 애매모호함
 
 ---
 

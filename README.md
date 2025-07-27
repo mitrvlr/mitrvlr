@@ -1,9 +1,10 @@
-### 🌻 Hi there, I'm Software Engineer, and Traveler 👋
+👋 Frontend @ | 10+ yrs in web | Love CSS, build with React/Next.js
 
-> “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”
-— Gerald M. Weinberg, Becoming a Technical Leader: An Organic Problem‑Solving Approach  
+> “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”  
+— Gerald M. Weinberg, *Becoming a Technical Leader: An Organic Problem‑Solving Approach*
 
-- Frontend engineer with 10+ years of experience — passionate about CSS, focused on building with React and Next.js.
+- Frontend engineer with 10+ years of experience — I’ve always loved CSS, and I build things with React and Next.js.
+- Currently at 
 
 ---
 

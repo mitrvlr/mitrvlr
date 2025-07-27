@@ -1,6 +1,9 @@
 ### 🌻 Hi there, I'm Software Engineer, and Traveler 👋
 
-> "모든 문제에는 아직 아무도 찾아내지 못한 다른 해결책이 존재한다."
+> “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”
+— Gerald M. Weinberg, Becoming a Technical Leader: An Organic Problem‑Solving Approach  
+
+- Frontend engineer with 10+ years of experience — passionate about CSS, focused on building with React and Next.js.
 
 ---
 

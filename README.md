@@ -1,4 +1,4 @@
-👋 Frontend @ NAVER Cloud | 10+ yrs in web | Love CSS, build with React/Next.js
+👋 Frontend @ NAVER Cloud | 10+ yrs in web | Love CSS, build with Next.js and Nest.js
 
 > “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”  
 — Gerald M. Weinberg, *Becoming a Technical Leader: An Organic Problem‑Solving Approach*

@@ -3,7 +3,9 @@
 > “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”  
 — Gerald M. Weinberg, *Becoming a Technical Leader: An Organic Problem‑Solving Approach*
 
-- Frontend engineer with 10+ years of experience — I’ve always loved CSS, and I build things with Next.js and Nest.js.
+- Frontend engineer with 10+ years of experience — I’ve always loved CSS, and I build things with Next.js and NestJS.
+- 5+ years of GCP archtecture and service management
+- 5+ years of Node.js and Backend intergration experience
 - Currently at NAVER Cloud
 
 ---

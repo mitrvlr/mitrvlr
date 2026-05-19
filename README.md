@@ -1,11 +1,10 @@
-👋 Frontend @ NAVER Cloud | 10+ yrs in web | Love CSS, build with Next.js and Nest.js
+👋 Front-end based Product Engineer @ NAVER Cloud | 10+ yrs in web | Love CSS, build with Next.js and Nest.js
 
 > “Problem‑solving leaders have one thing in common: a faith that there’s always a better way.”  
 — Gerald M. Weinberg, *Becoming a Technical Leader: An Organic Problem‑Solving Approach*
 
-- Frontend engineer with 10+ years of experience — I’ve always loved CSS, and I build things with Next.js and NestJS.
-- 5+ years of GCP archtecture and service management
-- 5+ years of Node.js and Backend intergration experience
+- Product Engineering: 10+ years of Frontend expertise focusing on CSS, Next.js, and NestJS.
+- Platform & Infrastructure Engineering: Architecting Client Engines with 5+ years of experience in Node.js backend integration and GCP service management.
 - Currently at NAVER Cloud
 
 ---
